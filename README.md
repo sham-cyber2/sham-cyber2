@@ -29,7 +29,6 @@
 
 - :computer: I'm a Fullstack Developer,Cybersecurity Professional Computer Engineer | Computer Security | SOC, SIEM & Incident Response
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
@@ -40,7 +39,7 @@
     <i class="fab fa-facebook"></i>
   </a>
 
-  <a href="https://www.instagram.com/sham-cyber" target="_blank">
+  <a href="https://www.instagram.com/sham_cyber" target="_blank">
     <i class="fab fa-instagram"></i>
   </a>
 
