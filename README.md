@@ -36,3 +36,20 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
+<div class="social-icons">
+  <a href="https://www.facebook.com/USERNAME" target="_blank">
+    <i class="fab fa-facebook"></i>
+  </a>
+
+  <a href="https://www.instagram.com/USERNAME" target="_blank">
+    <i class="fab fa-instagram"></i>
+  </a>
+
+  <a href="https://www.twitter.com/USERNAME" target="_blank">
+    <i class="fab fa-twitter"></i>
+  </a>
+
+  <a href="https://www.linkedin.com/in/USERNAME" target="_blank">
+    <i class="fab fa-linkedin"></i>
+  </a>
+</div>
