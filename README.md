@@ -27,8 +27,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer,
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :computer: I'm a Fullstack Developer,Cybersecurity Professional Computer Engineer | Computer Security | SOC, SIEM & Incident Response
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
