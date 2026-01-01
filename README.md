@@ -47,7 +47,7 @@
     <i class="fab fa-twitter"></i>
   </a>
 
-  <a href="https://www.linkedin.com/in/Monzer naif" target="_blank">
+  <a href="https://www.linkedin.com/in/monzer-naıf-ba863239a" target="_blank">
     <i class="fab fa-linkedin"></i>
   </a>
 </div>
