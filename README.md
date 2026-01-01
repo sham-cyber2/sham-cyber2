@@ -43,7 +43,7 @@
     <i class="fab fa-instagram"></i>
   </a>
 
-  <a href="https://www.twitter.com/sham-cyber" target="_blank">
+  <a href="https://x.com/cybera_sham" target="_blank">
     <i class="fab fa-twitter"></i>
   </a>
 
