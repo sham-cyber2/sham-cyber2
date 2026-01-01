@@ -41,15 +41,15 @@
     <i class="fab fa-facebook"></i>
   </a>
 
-  <a href="https://www.instagram.com/USERNAME" target="_blank">
+  <a href="https://www.instagram.com/sham-cyber" target="_blank">
     <i class="fab fa-instagram"></i>
   </a>
 
-  <a href="https://www.twitter.com/USERNAME" target="_blank">
+  <a href="https://www.twitter.com/sham-cyber" target="_blank">
     <i class="fab fa-twitter"></i>
   </a>
 
-  <a href="https://www.linkedin.com/in/USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/Monzer naif" target="_blank">
     <i class="fab fa-linkedin"></i>
   </a>
 </div>
